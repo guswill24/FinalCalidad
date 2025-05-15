@@ -111,3 +111,4 @@ Este proyecto es de uso académico y formativo para estudiantes y desarrolladore
 - Gustavo Willyn Sánchez Rodríguez
 - email: guswillsan@gmail.com
 - Actualizado el 15/05/2025
+- Ajustado con **ngrok**
