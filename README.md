@@ -1,4 +1,4 @@
-# 🎮 game-project
+# 🎮 game-project - Revisión Final
 
 > Proyecto base para el desarrollo de entornos 3D interactivos usando **React + Three.js**, con un enfoque estructurado en **Programación Orientada a Objetos (OOP)**.
 
