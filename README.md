@@ -121,7 +121,7 @@ A continuación, se proporcionan dos enlaces fundamentales que servirán como gu
 
 ## Consideraciones importantes
 
-* El archivo `Jenkinsfile` está configurado para ejecutarse en equipos con **sistema operativo Windows**.
+* El archivo **Jenkinsfile** **está configurado para ejecutarse en equipos con **sistema operativo Windows**.
   Si algún integrante del grupo trabaja en **Linux**, es recomendable que este proceso se realice desde un equipo Windows para evitar incompatibilidades y avanzar sin contratiempos.
 
 * **Importante**: No deben desarrollar funcionalidades adicionales en el aplicativo entregado. Este proyecto únicamente servirá como base para aplicar los distintos tipos de pruebas de software requeridas:
