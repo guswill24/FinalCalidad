@@ -92,6 +92,49 @@ npm run dev
 
 ---
 
+Aquí te dejo el texto mejor redactado, listo para incluir en el README de tu repositorio, manteniendo la estructura original y mejorando su claridad:
+
+---
+
+## Enlaces de referencia para el desarrollo del proyecto
+
+A continuación, se proporcionan dos enlaces fundamentales que servirán como guía para la correcta ejecución de las actividades del proyecto:
+
+1. **Pruebas unitarias**
+   El siguiente enlace explica cómo trabajar las pruebas unitarias en el proyecto a entregar. Cada grupo tiene asignado su propio archivo de trabajo, por lo que pueden seguir las instrucciones detalladas para cumplir con esta parte correctamente:
+
+👉 [Guía de Pruebas Unitarias con Vitest](https://asigcalidadsoftware.vercel.app/modules/unitarias_vite.html)
+
+2. **Configuración de Jenkins y despliegue automático**
+   En este segundo enlace se detalla el proceso completo para trabajar con el archivo `Jenkinsfile`:
+
+* Configuración del Jenkinsfile
+* Publicación del repositorio en Vercel
+* Instalación de plugins en Jenkins
+* Creación del pipeline
+* Activación del sitio mediante ngrok
+* Validación automática de cada commit realizado en el repositorio.
+
+👉 [Guía de Integración Continua con Jenkins](https://asigcalidadsoftware.vercel.app/modules/unitarias_vite_2.html)
+
+---
+
+## Consideraciones importantes
+
+* El archivo `Jenkinsfile` está configurado para ejecutarse en equipos con **sistema operativo Windows**.
+  Si algún integrante del grupo trabaja en **Linux**, es recomendable que este proceso se realice desde un equipo Windows para evitar incompatibilidades y avanzar sin contratiempos.
+
+* **Importante**: No deben desarrollar funcionalidades adicionales en el aplicativo entregado. Este proyecto únicamente servirá como base para aplicar los distintos tipos de pruebas de software requeridas:
+
+  * ✅ Pruebas Unitarias (**Vitest**)
+  * ✅ Pruebas de Integración (**Postman**)
+  * ✅ Pruebas de Sistema (**JMeter**)
+  * ✅ Pruebas de Implantación (**Jenkins**)
+  * ✅ Pruebas de Aceptación (incluidas en el documento del proyecto)
+
+
+---
+
 ## 🌐 Tecnologías utilizadas
 
 - [React](https://react.dev/)
