@@ -11,17 +11,19 @@ pipeline {
   }
 
   stages {
+    
+    stage('Clean workspace') {
+      steps {
+        deleteDir()
+      }
+    }
+
     stage('Checkout') {
       steps {
         git url: 'https://github.com/guswill24/FinalCalidad.git', branch: 'main'
       }
     }
 
-    stage('Clean workspace') {
-      steps {
-        deleteDir()
-      }
-    }
 
     stage('Install dependencies') {
       steps {
